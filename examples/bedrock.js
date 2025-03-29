@@ -3,7 +3,7 @@ const bot = mineflayer.createBot({
     host: '0.0.0.0',   // Minecraft server IP
     port: 19132,              // Minecraft Bedrock server port
     auth: 'microsoft',       // Use Microsoft authentication
-    version: 'bedrock_1.21.50' // Specify the Bedrock version
+    version: 'bedrock_1.21.70' // Specify the Bedrock version
 });
 
 // Event listener to log when the bot connects
