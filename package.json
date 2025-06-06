@@ -23,7 +23,7 @@
   "dependencies": {
     "bedrock-protocol": "^3.42.2",
     "bedrock-provider": "^3.0.0",
-    "minecraft-data": "github:bedrock-bot/minecraft-data#1.21.80",
+    "minecraft-data": "github:bedrock-bot/node-minecraft-data#1.21.80",
     "minecraft-protocol": "^1.50.0",
     "prismarine-biome": "^1.1.1",
     "prismarine-block": "^1.17.0",
